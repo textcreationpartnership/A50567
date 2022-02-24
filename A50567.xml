@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the former faithful and long service with the present most unjust imprisonment of Anthony Mellidge, sometime called a captain; now in scorn called a Quaker.</title>
+            <author>Mellidge, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50567</idno>
+            <idno type="STC">Wing M1648</idno>
+            <idno type="STC">ESTC R217798</idno>
+            <idno type="EEBO-CITATION">99829441</idno>
+            <idno type="PROQUEST">99829441</idno>
+            <idno type="VID">33881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1919:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the former faithful and long service with the present most unjust imprisonment of Anthony Mellidge, sometime called a captain; now in scorn called a Quaker.</title>
+                  <author>Mellidge, Anthony.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Signed and dated on A4r: Anthony Mellidge. Dover, .. the 25. day of the twelfth moneth 1656.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mellidge, Anthony --  Early works to 1800.</term>
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33881:1"/>
+            <pb n="1" facs="tcp:33881:1" rendition="simple:additions"/>
+            <head>A TRUE RELATION Of the former Faithful and long ſervice, WITH <hi>The preſent moſt unjuſt Impriſon<g ref="char:EOLhyphen"/>ment of</hi> ANTHONY MELLIDGE, Somtime called a Captain; <hi>NOW In ſcorn called a</hi> QUAKER.</head>
+            <div type="part">
+               <p>WHerein is alſo declared how he was convinced of evil, with the Light of Chriſt in his conſcience; and how he came to be obedient unto it, and by it departing from evil is now become a prey, and deprived of that outward liberty which he ſo long fought for: alſo how he came to be Impriſoned, in viſiting his Mother in the fleſh a Widow, and the Fatherleſs, who alſo inhabit in the ſame County of <hi>Dorſet,</hi> and how <hi>Humphry Smith,</hi> who was with him was alſo ſent to priſon with him.</p>
+               <p>
+                  <pb n="2" facs="tcp:33881:2"/>
+Hearken diligently all you whoſe ears have been open to miſchief, and are ſtill perſecuting the children of God, and haling of them to priſon, though they have not broken any Law of God or man, but live in the fear of the Lord, and are obedient unto the Law of God written in the heart, according to the promiſe of God, who in obedience to the Commands of Chriſt dare not ſwear at all, but are out of this ſwearing, and deny all Swearers and Perſecutors of thoſe who in obedience to Chriſts Commands cannot ſwear.</p>
+               <p>And all you who do thus perſecute, your faith is vain, and you are yet in your ſins and are out of the Faith of Chriſt, which Faith purifies the heart even as he is pure; and this is the Faith which all the ſervants of the Lord contend for, which is the Faith that reſpects no mans perſon, yet are ſubject to every Ordinance of man for the Lords ſake; for if he that is called a Magiſtrate makes an Order to go to priſon, they are ſubject to it, though they have not tranſgreſſed, as to this I can witneſs; for now it is ſo with me, as Truth will make it appear.</p>
+               <p>My natural birth was in <hi>Purbick,</hi> in the Town of <hi>Corfe,</hi> in the County of <hi>Dorſet,</hi> where by my Parents I was brought up until I was about the age of fifteen years, in which time I was brought up by the Education of them, as the people of the world bring up their children; but I was kept by ſome<g ref="char:EOLhyphen"/>thing in me from many groſſe evils which others lived in, yet I was with<g ref="char:EOLhyphen"/>out the fear of the Lord, for iniquity did abound in me all that time.</p>
+               <p>Afterwards I lived ſometime with a Maſter of a Ship, who was to teach me the Art of Navigation; but before I had been with him five years I was preſſed into the ſervice of <hi>King and Parliament;</hi> ſo then I ſerved in the Rainbow until ſhe was paid off. Afterwards ſome of my Friends would have preſerved me to the honour of the world; but then there was ſomthing in me which ſhewed me that honour would puffe me up ſo I was in a mea<g ref="char:EOLhyphen"/>ſure obedient, and at that time refuſed honour.</p>
+               <p>About three years after I had freedom to go into the <hi>Parliaments</hi> ſervice, in a Ship called the <hi>Triumph</hi> againſt <hi>Prince Rubert,</hi> in which Voyage I had that in me which kept me from eating any thing that I did know was ſtoln, whilſt we had other proviſion to eat, but yet I did not know then that it was the Light of Jeſus Chriſt; for I was then in my natural condi<g ref="char:EOLhyphen"/>tion, and did not perceive this thing in me to be of God; ſo I remained a ſtranger to the Covenant of promiſe, and without God in the world. In this Voyage I was a <hi>Quarter-maſters</hi> Mate, which was contrary to the Light in me, yet I ſtood in my own will, not reſiſting it in the leaſt, and ſo de<g ref="char:EOLhyphen"/>ceit ruled in me all that time.</p>
+               <p>That Voyage being ended, I was cleared; and afterwards I went in a Ship called the <hi>Liberty,</hi> then under the Command of Cap. <hi>Edward Hall;</hi> and in the terme of that Voyage I was put into another Ship, which was taken by the ſame Captain, who orderd me to go in her as a Maſters Mate, which Veſſel had in her Sack, and Sugar, and other proviſions for the Army that was at <hi>Peſton Pans</hi> and <hi>Muſſelbrough</hi> neer <hi>Leeth</hi> in <hi>Scotland.</hi>
+               </p>
+               <p>
+                  <pb n="3" facs="tcp:33881:2"/>
+And after that Voyage was ended I was with <hi>Captain Hall</hi> again in the <hi>Straits,</hi> in a Ship called the <hi>Triumph;</hi> in which Voyage I had a time of ſick<g ref="char:EOLhyphen"/>neſs, and ſome came to viſit and comfort me after the manner of men; but I had that then in me which told me that they were miſerable comforters, becauſe they did not Adminiſter comfort to that which lay in priſon in me<g ref="char:punc">▪</g> But yet all this while I did not know that this was the Light of Jeſus Chriſt, which lighteth every man that cometh into the world; neither was I obe<g ref="char:EOLhyphen"/>dient unto his Commands to learn of him in all things; but I learned of the wiſdom of the world which brought death to me.</p>
+               <p>When the Wars began between <hi>England</hi> and <hi>Holland,</hi> I was in a Ship called the <hi>Andrew,</hi> then under the Command of <hi>Major Boorene,</hi> who then loved me, and would have preferred me in the ſervice, either to a Gun<g ref="char:EOLhyphen"/>ner or Boat ſwaines place, but I denyed it; for there was that in me that told me, either of theſe two places would be a ſnare unto me; yet for all this I did not then know that this which did diſcover it unto me was the grace of God, that hath appeared unto all men, which teacheth us all things.</p>
+               <p>Afterwards I was in two fights, under the Command of <hi>Captain Niko<g ref="char:EOLhyphen"/>las Heaton</hi> in the <hi>Saphire Frigot,</hi> where I was then beloved by him, and he put me in the place of a Maſters Mate, for the ſpace of above two years, and I was in three or four fights againſt the <hi>French;</hi> but many times I had many convictions in my conſcience, that I did not walk uprightly with the Lord; and many times the afflicting hand of God was upon me, which brought ſickneſs; yet al this while I did not conſider that it was for my diſ<g ref="char:EOLhyphen"/>obedience, neither was I changed from the people of the world, though I was free from many groſſe ſins that the world takes notice of; yet I lived in the vanity of my mind, as all the world do at this day, and many times when I have been in fooliſh jeſting, I have felt that in me which ſtrook me ſilent; and yet at that time I did not know that this was the Light of Chriſt which condemns the world of ſin; but now I ſee that people periſh for want of knowledge.</p>
+               <p>About the time the Wars began between <hi>England</hi> and <hi>Spain,</hi> the <hi>Cap<g ref="char:EOLhyphen"/>tain</hi> of the <hi>Saphire</hi> being ſick, I was then ordered by Commiſſioner <hi>Hatſel</hi> to Command the <hi>Saphire</hi> in the abſence of Captain <hi>Heaton;</hi> ſo I had the Command of her about fourten weeks, and within four dayes after I had the Command of her, I took a Briſt man of War, and then with it a ſecret pride grew up in me to ſee that honour was coming upon me ſo faſt, and that I was in eſtimation with Captains, and in favour with great men of the world; yet when I was at Sea, many times the afflicting hand of the Lord was upon me, yet I walked in the vanity of my mind, and was not obe<g ref="char:EOLhyphen"/>dient to the Commands of Chriſt, who ſaith, I am the Light, learn of me, but I followed ſtill the teachings of men, but I did not profit at all by them.</p>
+               <p>At length I was called forth, (from among them called Baptiſts, whom I had followed for a time) to hear thoſe people whom the world calleth <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> and the firſt time I heard them, that of God in me did witneſs, that they were the people of God, yet I could not joyn with them; for <hi>I</hi> was then
+<pb n="4" facs="tcp:33881:3"/>out of their life; but I went to comprehend it in my wiſdom, and ſo I loſt my own condition again, and then I followed the Baptize again; and af<g ref="char:EOLhyphen"/>terwards I heard more of thoſe called <hi>Quakers,</hi> and then I was really con<g ref="char:EOLhyphen"/>vinced that they were the Miniſters of Jeſus Chriſt, that did walk in the ways of God, and in the Commands of Chriſt; and that their Miniſters was to turn peoples minds from darkneſs to Light, and from the power of Satan to God, according to that in <hi>Act.</hi> 26. Verſe 18. Yet afterwards I was go<g ref="char:EOLhyphen"/>ing to hear the Baptize again; and as I was in the way ſomthing in me <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d me, I was ſeeking the living among the dead, ſo to it then I hearkned and returned back, and ſat in ſilence moſt part of that day, with ſome of the people of God, who were waiting upon the Lord in a ſilent meeting, then I was under ſome judgment for ſome time after for my former diſobe<g ref="char:EOLhyphen"/>dience, and many times wept much in ſecret, and then my former ac<g ref="char:EOLhyphen"/>quaintance, (who lived in the vanity of their minds) would be pittying of me.</p>
+               <p>And ſomtime after I was releaſed out of the Ship that I had ſerved the Common-wealth in almoſt three years, then I went to <hi>London</hi> for my pay; but then thoſe who formerly would have preferred me to honour, would take little notice of me, becauſe I could not reſpect perſons.</p>
+               <p>After all this I came to <hi>Lyme</hi> where my outward being was then, (and is) where I found the love of but<g ref="char:punc">▪</g> few in the Town, becauſe I could not reſpect perſons, (and I went but ſeldom out of the houſe of my abode) un<g ref="char:EOLhyphen"/>leſs it were ſomtimes about my occaſions.</p>
+               <p>And after this I went to viſit Friends that were impriſoned at <hi>Exon,</hi> and there was the Captain and others of the Briſt man of War, which I had formerly taken, his name was <hi>George God,</hi> who knew me as I was paſſing along in the priſon, and came in a rage, and beat and kicked me, ſo that ſome of my blood was ſpilt by it, and he was not reſtrained by the keeper until he had had his wil of me, for I was brought to ſtand ſtill, and not in the leaſt to reſiſt; yet there was ſomthing in my will, which vvould then have ſought for revenge; but that vvhich is pure of God in my conſcience, ſaid vengeance is mine I vvil repay, and to that I vvas obedient.</p>
+               <p>Aftervvards vvhen I vvas at <hi>Lyme</hi> at my outvvard habitation, one of my Friends vvho is called <hi>Humphrey Smith,</hi> whom I had viſited at the pri<g ref="char:EOLhyphen"/>ſon in <hi>Exon,</hi> there he vvas kept ſome four vveeks by <hi>Mayor Blakemore,</hi> af<g ref="char:EOLhyphen"/>ter an order vvas come into his hand from the <hi>Protector</hi> and his Counſel, for the releaſing of him and the reſt; he being at laſt releaſed, came to viſit me upon the thirteenth day of the tvvelfth Month, vvho was intended alſo to paſs unto Pool &amp; back again, nigh unto the place of my natural birth, vvhere ſhe doth inhabit that is my Mother according to the fleſh, whom it hath layn upon me ſomtime before to go to viſit, both ſhe that is a Widovv and the Fatherleſs.</p>
+               <p>So I having ſuch an opportunity to Travel a Foot vvith that Friend <hi>Hum<g ref="char:EOLhyphen"/>phrey Smith;</hi> on the morrovv vve paſt on not knovving or intending any o<g ref="char:EOLhyphen"/>ther but that he might in his freedom paſs vvith me by my Mother, &amp; I might
+<pb n="5" facs="tcp:33881:3"/>paſs with him to Pool, and ſo back to my habitation again within ſeven or eight dayes, the journey being not much above thirty ſix miles, for <hi>Lime</hi> and <hi>Corf</hi> is both in the County of <hi>Dorſet.</hi>
+               </p>
+               <p>But when we came to viſit the Widow and Fatherleſs, the Prieſt and Rulers made inſurrection againſt us, being moved with envy againſt the Lambs of Chriſt as their fore Fathers were <hi>Acts</hi> 5.17.</p>
+               <p>For we coming into that Town called <hi>Corf,</hi> and ſo preſently into my Mothers houſe, in the latter part of the day, and we went not that night into any other houſe, neither did we walk the ſtreets, which if we had were free, but remained in the houſe; and in the evening ſome came to ſee me, it being the place of my former acquaintance, when I uſed the cu<g ref="char:EOLhyphen"/>ſtoms of the people that are vain <hi>Jer.</hi> 10.3.</p>
+               <p>So that it is like there might be ſome ſix or ſeven more then us, and them of the houſe; who being all quiet, my Friend <hi>Humphrey Smith</hi> was moved of the Lord to ſpeak unto them, who heard with patience the words of Truth, and were all very peaceable until the Prieſt, and Mayor, and the Bayliff as they are called, came in and diſturbed us who were in the fear of the Lord, contrary to their own Law; (read the Inſtrument of the Go<g ref="char:EOLhyphen"/>vernment about the 37. Article.)</p>
+               <p>For as <hi>Humphrey Smith</hi> was ſpeaking the word of God with boldneſs, the Prieſt came in like a Sorcerer, making ſignes with his fingers in a ſcof<g ref="char:EOLhyphen"/>fing manner, and <hi>Richard Jones</hi> who is called the Bayliff, ſpake haſtily in a rage without the fear of God, unto <hi>Humphrey Smith</hi> as he was ſpeaking, and alſo with his harſh word he pluckt <hi>Humphrey Smith</hi> with violence, as though he thought thereby to fright him, and ſo at laſt forced him to ſtop; then the Prieſt examined <hi>Smith</hi> by what Authority he did theſe things, af<g ref="char:EOLhyphen"/>ter that manner the Prieſts, Scribes, and Elders came to Chriſt <hi>Luke</hi> 20.1. And the Prieſts vvere ſtill ſome of the formoſt in perſecuting formerly, as they are alſo novv in <hi>England.</hi>
+               </p>
+               <p>Novv the Prieſt being deſired by H.S: yet vvould not let him have liberty to anſvver the Queſtion, but vvent on in many vvords from the firſt vviſ<g ref="char:EOLhyphen"/>dom: among vvhich vvords he confeſſed that H. S. had ſpoken the very vvords of the Holy Ghoſt, and being ſpoke to again to give liberty to an<g ref="char:EOLhyphen"/>ſvver the Queſtion, he ſaid he vvould ſpeak but one vvord more; and vvhen he ſtill continued in many vain vvords, I then charged him to be a Lyer in ſpeaking ſo many vvords, vvhen he ſaid he vvould ſpeak but one vvord more, then the Prieſt <hi>Nicholas Gibbens</hi> vvho is called <hi>Doctor Gibbens</hi> ſaid, one might ſpeak that which is not true, and yet not be a Lyer; mark that, ſo vvith his many vain vvords and light carriage, he cauſed the people to laugh and began to be uncivil, being himſelf in the ſame nature of the falſe Prophets of old, vvho cauſed the people to Erre by their lyes, and by their lightneſs <hi>Jer.</hi> 23.32. ſo after there had been ſome ſtir in vvords among the people, by reaſon of this Prieſt <hi>Gibbens</hi> vvho vvith the <hi>Mayor</hi> and the Bay<g ref="char:EOLhyphen"/>liff, vvho did all three at laſt depart as they might vvith ſhame; then vvere the many people that vvere then come in very quiet again, &amp; attended to vvhat
+<pb n="6" facs="tcp:33881:4"/>was then ſpoke to them by H. S. and many confeſſed to the Truth, and departed all peaceably.</p>
+               <p>On the morrow <hi>Rich. Jones</hi> brought a Warrant with ones hand to it, as they ſaid, that is called Juſtice <hi>Due;</hi> but there was neither of our names in it, but the name of another man. So we ſaid it was nothing to us; and after many words the <hi>Major</hi> was deparring, then <hi>Richard Jones</hi> ſaid, though our names were not in it, yet he would have us away, and he would an<g ref="char:EOLhyphen"/>ſwer it; ſo with violent hands he pulled and thruſt H. S. out of my Mo<g ref="char:EOLhyphen"/>thers houſe, and brought us to an Ale houſe, and ſet a Watch to keep us; and thence he took us away to bring us before one called Juſtice <hi>Clavil;</hi> ſo <hi>Richard Iones</hi> charged men with Horſe to guard us along unto that <hi>Ro<g ref="char:EOLhyphen"/>ger Clavil,</hi> who is ſet to do Juſtice, and the Prieſt <hi>Nicolas Gibbens</hi> came alſo; and when we were come before him called Juſtice, then the Prieſt <hi>Gibbens</hi> and alſo Prieſt <hi>Pitfild</hi> were there to lay ſnares for us.</p>
+               <p>But we acquainted him that is ſet to do Juſtice, how I came and my Friend with me to viſit my Mother a Widow and the Fatherleſs, and if we had tranſgreſſed any Law, we were ready to ſuffer: But this Prieſt <hi>Nicolas Gibbens,</hi> who with the <hi>Major</hi> and this <hi>Richard Iones</hi> had diſturbed us, that were peaceable before they came, and after, and alſo that there were them that were drunk, that came in with or after them, <hi>Richard Iones,</hi> being a Beer brewer and keeps an Ale houſe, and that the ſaid <hi>Ri<g ref="char:EOLhyphen"/>chard Iones</hi> was accuſed to his face for ſwearing that time he came in upon us.</p>
+               <p>Then <hi>Roger Clavil</hi> that ſhould have done Juſtice upon theſe Offenders, aſked if we would take our Oaths that <hi>Richard Iones</hi> did ſwear, and when he underſtood that we durſt not go out of the Doctrine of Chriſt to ſwear, then he fetched that called the Oath of abjuration to enſnare us by, but we told him if it were his will to ſend us to priſon, he might do it without laying that ſnare for us, and we ſaid alſo he might offer that to the Papiſts of the County. Now <hi>Roger Clavil</hi> took occaſion againſt me, becauſe I had told Prieſt <hi>Gibbens</hi> that he was a lyer, when he did lye, and <hi>Roger Cla<g ref="char:EOLhyphen"/>vil</hi> ſaid that though one did tell a lye, he muſt not be called a lyer.</p>
+               <p>So he made a Mittimus, which was afterwards interlined with falſe ac<g ref="char:EOLhyphen"/>cuſations, and ſent me to priſon, and alſo my Friend <hi>Humphrey Smith;</hi> and being brought and watched in a room in an Ale houſe that night and people kept from us: in the morning before the Sun was up, <hi>Richard Iones</hi> came to hale us out of the Bed; alſo as we were paſſing peaceable and ſi<g ref="char:EOLhyphen"/>lent along towards the Priſon, <hi>Richard Iones</hi> Rid at H. S. and ſtopt him, and being very wroth he alighted, and pulled, and haled him in the dirt; but H. S. ſpake not a word to him at that time, nor ſome time before; and when he had done what he would to us we riſe up, and paſſed on to<g ref="char:EOLhyphen"/>wards the priſon.</p>
+               <p>And when we were come to <hi>Dorcheſter, Richard Iones</hi> ſtayed at an Inn, and let us ſtay with him, and the reſt he had to guard us, and there the ſaid the Juſtice <hi>Roger Clavil</hi> commanded him to ſearch us, and alſo to take
+<pb n="7" facs="tcp:33881:4"/>our moneys from us; mark that; ſo afterwards he brought us to the priſon where we yet remain.</p>
+               <p>Now let all people honeſtly conſider with that of God in their conſci<g ref="char:EOLhyphen"/>ences, if this be ruling for God; for I went but from my habitation, Wife, and Children, to the place of my nativity, it being both in one County, to viſit my Mother and Brethren according to the Fleſh, and truely I had no other end but the good both of their bodyes and ſouls; and I did not in the leaſt either break any Law, or do or ſpeak any thing that I know of which might be called an offence to any Creature: Only that I proved the Prieſt a lyer; and I am not only ſent to priſon my ſelf, but alſo my Friend that came in love with me; and the Drunkards, and Lyers, and the Swea<g ref="char:EOLhyphen"/>rers went free. A. M.</p>
+               <p>Theſe unjuſt Impriſonments are acted in the <hi>Protectors</hi> name, contrary to his Inſtrument of Government.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dorſet, from the Priſon in Dorcheſter,</hi> 
+                     <date>
+                        <hi>the</hi> 25. <hi>day of the twelfth Moneth</hi> 1656.</date>
+                  </dateline>
+                  <signed>By him that now rejoyceth in ſufferings with the reſt of the Lambs of Chriſt, who is now the Teacher of him that is known to many of you by the name of ANTHONY MELLEDGE.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A dreadful Cry againſt the Oppreſſors.</head>
+               <p>HEar O ye Heads of the people, and conſider O ye rulers of the Na<g ref="char:EOLhyphen"/>tion, for I am even weary with holding in the word of the Lord; it is like fire in my bones, and my Bowels within me are pained. O wo is me, becauſe of you and the evil of your doings, and the wicked<g ref="char:EOLhyphen"/>neſs of your wayes, and the continual tranſgreſſion wherewith all you pro<g ref="char:EOLhyphen"/>voke the Lord God of Hoſts; ſurely I will write that I may be eaſed, and declare that I may be unburdened; for my burthen is too heavy for me to bear, and the hand of the Lord is upon me, and to you O ye men am I moved to write, and to declare in the Name of the Lord againſt your un<g ref="char:EOLhyphen"/>righteous wayes, and the evil of your doings, who are lifted up on high, and have forgot the day of your diſtreſs, and broken Covenant with the Lord your maker, and now provoke him to Jealouſy day by day, and are hardened in your wickedneſs, and give not ear to the word of reproof, not yet regard the warnings of the Almighty; the multitude of your ſins are numberleſs, and the weight of your iniquity is great; who can de<g ref="char:EOLhyphen"/>clare your Abominations, or diſcover the multitude of your Treacheries againſt the Lord and the word of his power! O who have had warning like unto you, and how often have you been reproved, and yet you are ſtill
+<pb n="8" facs="tcp:33881:5"/>double minded, and ſeeking your own glory, and extolling your ſelves; will you not at all regard until the judgements of the Lord come upon you, who are found in the way of ſinners, and in the paths of unrigh<g ref="char:EOLhyphen"/>teouſneſs; are you not found in the way of them whom the Lord cut off before you? were they wicked? and are you not worſe? had they the war<g ref="char:EOLhyphen"/>ning that you have had, or did they ſee the deliverances of the Lord as you have done? or did they promiſe both to God and man as you have done, to ſerve the Lord, and free the Land of oppreſſion; and is not the oppreſ<g ref="char:EOLhyphen"/>ſion and cruelty greater now then before? have not even hundreds ſuffered Impriſonment, and loſſe of goods (if not ſome death it ſelf) who have not broke any known Law? and hath not the Cry of the oppreſſed been great theſe two years? and did not the Lord cut off the Oppreſſors be<g ref="char:EOLhyphen"/>fore you? and did they Impriſon ſo many for conſcience ſake as you have done? and will not the Lord reward you at laſt according to your deeds, and hear the Cry of the oppreſſed which have even groned under your op<g ref="char:EOLhyphen"/>preſſion theſe two years, wherein you have turned your backs upon the Lord, and ſet your faces againſt his ſervants, and turned your ſword alſo backward againſt the Lambs of Jeſus Chriſt? and your Law have you turned into a lye, and made it a ſnare for the innocent, your courts that ſhould do Juſtice are corrupt, your judges are light and vain, and your Officers are men of ſin, and your Councels are not of the Lord, the great power of the Devil is by you upheld, and the whole Hoſt of Antichriſts are by you ſupported, the word of the Lord God is become a ginne and a ſnare unto you, that you may go backward and fall, and now behold, the An<g ref="char:EOLhyphen"/>cient of dayes will ſit upon you, who are of the wicked, among whom the grave is found, and in whom the ſeed lyes ſlain, and the ſtone at which you ſtumble will even grind you to powder, and once more will the Lord of Hoſts overturn, and bring down the high and mighty, and lay low the loftineſs of the terrible who are but as ſmoak in his ſight.</p>
+               <p>Therefore hear ye this, O ye Heads and rulers of <hi>England,</hi> and if there be any yet among you who will now humble themſelves, before the Lord God of hoſts, and let righteous Judgements run down as water, and righ<g ref="char:EOLhyphen"/>teouſneſs with it as a mighty ſtream, and break the yoak of the Oppreſ<g ref="char:EOLhyphen"/>ſors, and let the Oppreſſed go free; let ſuch hear while it is called to day, and feele the word of power that breaks the hard heart, and ſo return to follow the Lord God of Iſrael, who hath the hearts of Kings and Rulers in his own hand, and he reſpects not the perſons of the mighty but whoſo loveth mercy, and worketh righteouſneſs is excepted of him.</p>
+               <closer>
+                  <signed>
+                     <hi>Written by the hand of him that hath learned to pray for his Enemies, and deſires the good of all your ſouls, being a Friend to the peace of the peo<g ref="char:EOLhyphen"/>ple, and all that rule for God who hath made me willing to ſuffer for his Names ſake in outward bonds, by the dark world unto whom I am known by the name of</hi> HUMPHREY SMITH.</signed>
+               </closer>
+               <pb facs="tcp:33881:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
